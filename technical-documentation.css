@@ -1,0 +1,78 @@
+#js-header {
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+h1 {
+    padding-left: 180px;
+}
+#title {
+    color: rgb(10, 145, 235);
+    padding-left: 450px;
+}
+
+.main-section {
+    color: rgb(47, 136, 84);
+    font-size: 12pt;
+    padding-left: 180px;
+}
+
+header{
+    color:rgb(74, 74, 167);
+    font-size: 18pt;
+    padding-top: 0px;
+}
+
+#navbar{
+    display:block;
+    position: fixed;
+    padding-top: 20px;
+}
+
+p {
+    font-size: 12pt;
+    padding-left: 30px;
+}
+
+ul.nav-link {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li.nav-list {
+    float: left;
+  }
+  
+#navbar a {
+    display: block;
+    padding: 10px 30px;
+        padding-top: 10px;
+        padding-right: 30px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+    color: rgb(109, 86, 9);
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18pt;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+  
+  /* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+code {
+    font-size: 12pt;
+    color:black;
+    padding-left: 50px;
+}
+@media only screen and (min-width: 1000px) {
+    body {
+      background-color: rgb(204, 188, 211);
+    }
+  }
+
